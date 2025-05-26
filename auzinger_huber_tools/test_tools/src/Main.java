@@ -15,15 +15,21 @@ public class Main {
             String newString = "New line of code";
         }
     }
+
     public void thisIsANewMethod() {
         System.out.println("Merge conflict in nano, geil!");
         int i = 0;
     }
 
-    public void anotherNewMethod() {}
-    String string = "wow";
-    System.out.println(string);
+    public void anotherNewMethod() {
+        String string = "wow";
+        System.out.println(string);
 
-    String anotherString;
-    anotherString = "another one"
+        String anotherString;
+        anotherString = "another one";
+    }
+
+    public int getNumber() {
+        return 0;
+    }
 }
