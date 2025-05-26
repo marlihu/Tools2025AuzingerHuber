@@ -20,5 +20,6 @@ public class Main {
         int i = 0;
         System.out.println("Line 1");
         System.out.println("Line 2");
+        System.out.println("Line 3");
     }
 }
