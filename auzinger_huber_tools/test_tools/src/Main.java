@@ -22,5 +22,8 @@ public class Main {
 
     public void anotherNewMethod() {}
     String string = "wow";
-    System.out.println(string); 
+    System.out.println(string);
+
+    String anotherString;
+    anotherString = "another one"
 }
