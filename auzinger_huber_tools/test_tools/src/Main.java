@@ -21,4 +21,6 @@ public class Main {
     }
 
     public void anotherNewMethod() {}
+    String string = "wow";
+    System.out.println(string); 
 }
