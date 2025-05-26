@@ -15,5 +15,7 @@ public class Main {
             String newString = "New line of code";
         }
     }
-    public void thisIsANewMethod() { }
+    public void thisIsANewMethod() {
+        int i = 0; 
+    }
 }
