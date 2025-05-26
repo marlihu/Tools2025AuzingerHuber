@@ -19,5 +19,6 @@ public class Main {
         System.out.println("Merge conflict in nano, geil!");
         int i = 0;
         System.out.println("Line 1");
+        System.out.println("Line 2");
     }
 }
