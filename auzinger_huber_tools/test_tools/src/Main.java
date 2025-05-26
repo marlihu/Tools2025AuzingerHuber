@@ -19,4 +19,6 @@ public class Main {
         System.out.println("Merge conflict in nano, geil!");
         int i = 0;
     }
+
+    public void anotherNewMethod() {}
 }
