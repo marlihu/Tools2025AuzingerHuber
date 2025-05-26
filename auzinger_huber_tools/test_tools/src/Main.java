@@ -15,5 +15,7 @@ public class Main {
             String newString = "New line of code";
         }
     }
-    public void thisIsANewMethod() { }
+    public void thisIsANewMethod() {
+        System.out.println("Merge conflict in nano, geil!");
+    }
 }
